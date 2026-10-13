@@ -5,4 +5,4 @@ Documenting Releasing and Tagging on Github
 -[1.1](https://github.com/Obasoro/KubernetesSubmissions/tree/1.1/out_put)
 
 
--[1.2](https://github.com/Obasoro/KubernetesSubmission/tree/1.1/out_put)
+-[1.2](https://github.com/Obasoro/KubernetesSubmissions/tree/1.2/todo_app)
