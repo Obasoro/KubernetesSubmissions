@@ -9,3 +9,5 @@ kubectl get pods
 kubectl logs -f deployment/log-output-dep
 
 ```
+
+Added Exercise 1.3
